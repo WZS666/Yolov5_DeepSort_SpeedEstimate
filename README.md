@@ -26,8 +26,8 @@ This repository is base on [YOLOv5](https://github.com/ultralytics/yolov5) and [
 ## Download weight
 
 Our models pretrained on the [Aihub Dataset(South Korea)](https://aihub.or.kr/aidata/34120)<br>
-[best_yolov5s_aihub_finetune.pt](https://drive.google.com/file/d/1s37buFRyMq1cZkigkTt3m8FDgy5RYRwL/view?usp=sharing)<br>
-[best_yolov5l_aihub_finetune.pt](https://drive.google.com/file/d/1_eelw7kQT-sXJuD8RS6QHw4fHsH6MoVe/view?usp=sharing)<br>
+[best_yolov5s_aihub_finetune.pt](https://drive.google.com/file/d/1G4jLCseNlvQYFseYRbC1Ot6DHY-8QGTj/view?usp=sharing)<br>
+[best_yolov5l_aihub_finetune.pt](https://drive.google.com/file/d/1tQmM9XHImSe89QSn9OGdL0ufHvH6ootO/view?usp=share_link)<br>
 You can also download yolov5 pretrained weight at [yolov5 releases](https://github.com/ultralytics/yolov5/releases)
 
 ## run code
